@@ -19,7 +19,7 @@ string[] CreateArray()
 string[] ChangeArray(string[] Array, int MaxLenght = 3)
 {
     string value = string.Empty;
-    string[] ArrayChange = new string[Array.Length];
+    string [] ArrayChange = new string[Array.Length];
     for (int i = 0; i < Array.Length; i++)
     {
         value = Array[i];
