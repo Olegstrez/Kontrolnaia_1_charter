@@ -1,0 +1,15 @@
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\bin\Debug\net6.0\kp_1_1_charter.exe
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\bin\Debug\net6.0\kp_1_1_charter.deps.json
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\bin\Debug\net6.0\kp_1_1_charter.runtimeconfig.json
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\bin\Debug\net6.0\kp_1_1_charter.dll
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\bin\Debug\net6.0\kp_1_1_charter.pdb
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\obj\Debug\net6.0\kp_1_1_charter.csproj.AssemblyReference.cache
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\obj\Debug\net6.0\kp_1_1_charter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\obj\Debug\net6.0\kp_1_1_charter.AssemblyInfoInputs.cache
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\obj\Debug\net6.0\kp_1_1_charter.AssemblyInfo.cs
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\obj\Debug\net6.0\kp_1_1_charter.csproj.CoreCompileInputs.cache
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\obj\Debug\net6.0\kp_1_1_charter.dll
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\obj\Debug\net6.0\refint\kp_1_1_charter.dll
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\obj\Debug\net6.0\kp_1_1_charter.pdb
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\obj\Debug\net6.0\kp_1_1_charter.genruntimeconfig.cache
+C:\Users\хуй моржовый\Desktop\kp_1_1_charter\obj\Debug\net6.0\ref\kp_1_1_charter.dll
